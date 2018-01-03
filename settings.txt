@@ -1,0 +1,12 @@
+{
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Default Light+",
+    "window.openFilesInNewWindow": "off",
+    "emmet.triggerExpansionOnTab": "true"
+}
+
+{
+    "emmet.includeLanguages": {
+        "javascript": "html"
+     }
+}
